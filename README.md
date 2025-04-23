@@ -1,6 +1,6 @@
 # PointPillars Inference with TensorRT
 
-This repo is a fork of the CUDA-PointPillars repository, which itseld is forked from OpenPCDet. 
+This repo is a fork of the CUDA-PointPillars repository, which itself is forked from OpenPCDet. 
 
 This repository contains sources and model for [pointpillars](https://arxiv.org/abs/1812.05784) inference using TensorRT.
 
