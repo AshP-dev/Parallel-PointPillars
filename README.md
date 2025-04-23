@@ -61,7 +61,7 @@ Average perf in FP16 on the training set(7481 instances) of KITTI dataset.
 | Voxelization      | 3.707   ms  |
 | Backbone & Head   | 71.85   ms  |
 | Decoder & NMS     | 2.792   ms  |
-| Overall           | 76.601  ms  |
+| Overall           | 78.349  ms  |
 ```
 
 3D moderate metrics on the validation set(3769 instances) of KITTI dataset.
